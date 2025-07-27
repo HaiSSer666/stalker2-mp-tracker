@@ -1,0 +1,12 @@
+C:\Users\Oleksii\Desktop\stalker2-mp-tracker\backend\src\main\java\com\stalker2tracker\service\WebScraperService.java
+C:\Users\Oleksii\Desktop\stalker2-mp-tracker\backend\src\main\java\com\stalker2tracker\entity\MpStatus.java
+C:\Users\Oleksii\Desktop\stalker2-mp-tracker\backend\src\main\java\com\stalker2tracker\config\ScheduledTasks.java
+C:\Users\Oleksii\Desktop\stalker2-mp-tracker\backend\src\main\java\com\stalker2tracker\exception\GlobalExceptionHandler.java
+C:\Users\Oleksii\Desktop\stalker2-mp-tracker\backend\src\main\java\com\stalker2tracker\repository\MpStatusRepository.java
+C:\Users\Oleksii\Desktop\stalker2-mp-tracker\backend\src\main\java\com\stalker2tracker\repository\MpNewsRepository.java
+C:\Users\Oleksii\Desktop\stalker2-mp-tracker\backend\src\main\java\com\stalker2tracker\config\CorsConfig.java
+C:\Users\Oleksii\Desktop\stalker2-mp-tracker\backend\src\main\java\com\stalker2tracker\dto\StatusResponse.java
+C:\Users\Oleksii\Desktop\stalker2-mp-tracker\backend\src\main\java\com\stalker2tracker\service\TrackerService.java
+C:\Users\Oleksii\Desktop\stalker2-mp-tracker\backend\src\main\java\com\stalker2tracker\controller\StatusController.java
+C:\Users\Oleksii\Desktop\stalker2-mp-tracker\backend\src\main\java\com\stalker2tracker\entity\MpNews.java
+C:\Users\Oleksii\Desktop\stalker2-mp-tracker\backend\src\main\java\com\stalker2tracker\Stalker2MpTrackerApplication.java

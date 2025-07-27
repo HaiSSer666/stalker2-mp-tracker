@@ -1,0 +1,15 @@
+com\stalker2tracker\service\TrackerService.class
+com\stalker2tracker\entity\MpStatus.class
+com\stalker2tracker\dto\StatusResponse$NewsItem$NewsItemBuilder.class
+com\stalker2tracker\dto\StatusResponse$NewsItem.class
+com\stalker2tracker\controller\StatusController.class
+com\stalker2tracker\service\WebScraperService.class
+com\stalker2tracker\dto\StatusResponse$StatusResponseBuilder.class
+com\stalker2tracker\Stalker2MpTrackerApplication.class
+com\stalker2tracker\repository\MpNewsRepository.class
+com\stalker2tracker\config\ScheduledTasks.class
+com\stalker2tracker\config\CorsConfig.class
+com\stalker2tracker\entity\MpNews.class
+com\stalker2tracker\repository\MpStatusRepository.class
+com\stalker2tracker\dto\StatusResponse.class
+com\stalker2tracker\exception\GlobalExceptionHandler.class

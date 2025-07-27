@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+  min-height: 100vh;
+  font-family: 'Courier New', monospace;
+}
+
+.glow {
+  box-shadow: 0 0 20px rgba(255, 107, 53, 0.5);
+}
+
+.pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes pulse-glow {
+  from {
+    box-shadow: 0 0 20px rgba(255, 107, 53, 0.3);
+  }
+  to {
+    box-shadow: 0 0 30px rgba(255, 107, 53, 0.7);
+  }
+}
